@@ -4,8 +4,8 @@ This is a quick-and-dirty Hangman solver created for the Hangman programming cha
 
 ## Requirements
 
-Python 3.x
-[FuzzyWuzzy](https://github.com/seatgeek/fuzzywuzzy)
+* Python 3.x
+* [FuzzyWuzzy](https://github.com/seatgeek/fuzzywuzzy)
 
 ## Usage
 
